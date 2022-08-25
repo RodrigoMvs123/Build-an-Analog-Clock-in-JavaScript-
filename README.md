@@ -1,9 +1,9 @@
 # Build-an-Analog-Clock-in-JavaScript-
-
+https://www.youtube.com/watch?v=hbe2hn4W3z0
 
 https://raw.githubusercontent.com/RodrigoMvs123/Build-an-Analog-Clock-in-JavaScript-/main/README.md
 
-
+https://github.com/RodrigoMvs123/Build-an-Analog-Clock-in-JavaScript-/blame/main/README.md
 
 index.html
 <!DOCTYPE html>
